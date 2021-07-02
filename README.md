@@ -19,12 +19,12 @@ Software Engineer doing Web Dev things and a lifetime learner. Based in Jakarta,
 
 *NOTE: Top languages do not indicate my skill level or something like that, and it's a GitHub metric of which languages I have the most code on GitHub*
 
-<p align="center" style="margin: 0">
+<div align="center">
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Fadhilamadan&show_icons=true&count_private=true">
-</p>
-<p align="center" style="margin: 0">
+</div>
+<div align="center">
   <img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Fadhilamadan&layout=compact">
-</p>
-<p align="center" style="margin: 0">
+</div>
+<div align="center">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhilamadan&langs_count=8&layout=compact">
-</p>
+</div>
