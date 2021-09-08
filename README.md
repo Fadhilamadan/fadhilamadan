@@ -26,7 +26,7 @@ Software Engineer doing Web Dev things and a lifetime learner. Based in Jakarta,
   <img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Fadhilamadan&layout=compact">
 </div>
 <div align="center">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhilamadan&langs_count=8&layout=compact">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhilamadan&langs_count=10&layout=compact">
 </div>
 
 <!--
