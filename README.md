@@ -2,7 +2,7 @@
 
 **[About me:](https://fadhilamadan.com/about)**
 
-Software Engineer doing Web Dev things and a lifetime learner. Based in Jakarta, Indonesia. Working for a startup that focuses to help online sellers.
+Software Engineer doing Web Dev things and a lifetime learner. Working in a company that focuses on Software Development Services. Based in Yogyakarta, Indonesia.
 
 - 🌱 I’m currently learning Golang
 - 💬 Ask me about anything [here](https://github.com/fadhilamadan/fadhilamadan/issues)
