@@ -23,7 +23,7 @@ Software Engineer doing Web Dev things and a lifetime learner. Working in a comp
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Fadhilamadan&show_icons=true&count_private=true">
 </div>
 <div align="center">
-  <img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Fadhilamadan&layout=compact">
+  <img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Fadhilamadan&layout=compact&range=last_7_days">
 </div>
 <div align="center">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhilamadan&langs_count=10&layout=compact">
